@@ -1,3 +1,3 @@
 # World-Clock-API
 
-### [API LINK](https://full-time-api.herokuapp.com/)
+### [API LINK](https://word-clock-api.herokuapp.com/)
